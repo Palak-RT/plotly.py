@@ -1,0 +1,4 @@
+{
+  "name": "plotly.py (Python 3.7)",
+  "install": "bash .cursor/install.sh"
+}
